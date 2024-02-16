@@ -1,0 +1,64 @@
+body {
+    font-family: 'BD Oxford', cursive;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('https://wallpapers.com/images/hd/white-hd-1920-x-1080-background-4w5wcio575ey0477.jpg');
+    background-size: cover;
+  }
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #000000;
+    color: #fdfdfd;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+.about, .projects, .contact {
+    padding: 40px 0;
+}
+
+.projects .project {
+    margin-bottom: 20px;
+}
+
+.contact p {
+    margin: 5px 0;
+}
+
+.education-item {
+    margin-bottom: 20px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 8px;
+    background-color: #e1dbdb;
+    border-radius: 5px;
+}
+
+
